@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "MesloLGS NF";
+  src: url(./font_datas/MesloLGS\ NF\ Regular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MesloLGS NF";
+  src: url(./font_datas/MesloLGS\ NF\ Bold.ttf) format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MesloLGS NF";
+  src: url(./font_datas/MesloLGS\ NF\ Italic.ttf) format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "MesloLGS NF";
+  src: url(./font_datas/MesloLGS\ NF\ Bold\ Italic.ttf) format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: url("./font_datas/FiraCode-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: url("./font_datas/FiraCode-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: url("./font_datas/FiraCode-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: url("./font_datas/FiraCode-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-size: normal;
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: url("./font_datas/FiraCode-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-size: normal;
+}
